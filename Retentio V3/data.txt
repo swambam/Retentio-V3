@@ -1,0 +1,5 @@
+Fruits,Apple,Banana,Orange,Banana
+Vegetables,Carrot,Broccoli,Tomato,Spinach
+Grains,Rice,Wheat,Barley,Rye
+Rice,White Rice,Brown Rice,Basmati Rice
+Tomato,Cherry Tomato,Grape Tomatoes,Roma Tomatoes,Beefsteak Tomatoes
